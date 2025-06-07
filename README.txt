@@ -4,7 +4,7 @@ Submitted by: Paola Negrón
 
 Estimated time spent: 8hrs
 
-Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Globetrotter Deployed Site](https://musheu.github.io/Globetrotter/)
 
 ### Application Features
 
