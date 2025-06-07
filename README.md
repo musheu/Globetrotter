@@ -85,6 +85,8 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://musheu.git
 
 <div style="position: relative; padding-bottom: 64.55089820359281%; height: 0;"><iframe src="https://www.loom.com/embed/baa8a0c14e244d5b8d7a90863426ce9c?sid=e6c9a1fc-e39e-4127-ab0b-9d85a3cfaf56" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+[Walkthrough Video](https://www.loom.com/share/baa8a0c14e244d5b8d7a90863426ce9c?sid=9dcb2d6a-37d0-46bb-a30a-44661f68e170)
+
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
